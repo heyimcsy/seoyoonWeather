@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={{ flex: 1, flexDirection: 'row' }}>
       <View style={{ flex: 1, backgroundColor: 'tomato' }}></View>
-      <View style={{ flex: , backgroundColor: 'teal' }}></View>
+      <View style={{ flex: 2, backgroundColor: 'teal' }}></View>
       <View style={{ flex: 1, backgroundColor: 'orange' }}></View>
       {/* <Text style={styles.text}>Hello {myName} made a ReactNative APP!!!</Text> */}
       {/* <StatusBar style="auto" /> */}
